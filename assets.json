@@ -1,0 +1,109 @@
+{
+  "assets": [
+    {
+      "name": "bg_main",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_main.png",
+      "prompt": "cel-shaded toon game art, bold clean shapes, crisp dark outlines, flat gradient shading, glowing rim light. Vertical 19.5:9 deep navy celestial night sky, gold temple gate silhouettes low on the horizon, teal cloud banks drifting across the middle, warm ember glow rising from the bottom edge, stars scattered high, the centre left open and calm for interface, no text, no letters, no user interface elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_game.png",
+      "prompt": "cel-shaded toon game art, bold clean shapes, crisp dark outlines, flat gradient shading, glowing rim light. Vertical 19.5:9 deep navy sky seen from high above, soft and low contrast so gameplay reads on top of it, far teal cloud banks, faint gold temple shapes near the bottom, even brightness across the middle, no bright focal point, no text, no letters, no user interface elements"
+    },
+    {
+      "name": "sprite_dragon",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_dragon.png",
+      "prompt": "nose UP, top-down view. One single celestial dragon seen from directly above, long serpentine body curving behind it, ember-orange energy core glowing along the spine, gold horns and fins, teal underglow, cel-shaded toon game art, bold clean shapes, crisp dark outlines, flat gradient shading, glowing rim light, one subject centred and fully in frame, no other objects, no text"
+    },
+    {
+      "name": "sprite_gate_ring",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_gate_ring.png",
+      "prompt": "One single floating temple gate ring, a carved gold stone arch closed into a full circle, hollow open centre, front facing, symmetrical, cel-shaded toon game art, bold clean shapes, crisp dark outlines, flat gradient shading, glowing rim light, one subject centred and fully in frame, no other objects, no text"
+    },
+    {
+      "name": "sprite_gate_glow",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_gate_glow.png",
+      "prompt": "One single soft round halo of light, white hot in the middle fading smoothly outward to nothing, perfectly symmetrical, no ring outline and no hard edge anywhere, plain tintable glow, cel-shaded toon game art, bold clean shapes, flat gradient shading, one subject centred and fully in frame, no other objects, no text"
+    },
+    {
+      "name": "sprite_barrier_crystal",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_barrier_crystal.png",
+      "prompt": "One single cluster of unstable jagged crystal shards, cold violet and red fracture light inside them, sharp faceted silhouette, cel-shaded toon game art, bold clean shapes, crisp dark outlines, flat gradient shading, glowing rim light, one subject centred and fully in frame, no other objects, no text"
+    },
+    {
+      "name": "sprite_ember_mote",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_ember_mote.png",
+      "prompt": "One single small glowing ember mote, warm orange core with a gold edge and a soft falloff around it, round and symmetrical, cel-shaded toon game art, bold clean shapes, crisp dark outlines, flat gradient shading, glowing rim light, one subject centred and fully in frame, no other objects, no text"
+    },
+    {
+      "name": "sprite_trail_node",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_trail_node.png",
+      "prompt": "nose UP. One single soft teardrop wisp of energy, bright rounded head at the top tapering to a thin tail at the bottom, plain tintable shape with no detail inside, cel-shaded toon game art, bold clean shapes, crisp dark outlines, flat gradient shading, glowing rim light, one subject centred and fully in frame, no other objects, no text"
+    },
+    {
+      "name": "sprite_cloud_near",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_cloud_near.png",
+      "prompt": "One single wide teal cloud bank seen from above, soft rolled edges, flat and even in tone, symmetrical, cel-shaded toon game art, bold clean shapes, crisp dark outlines, flat gradient shading, glowing rim light, one subject centred and fully in frame, no other objects, no text"
+    },
+    {
+      "name": "sprite_cloud_far",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_cloud_far.png",
+      "prompt": "One single thin distant cloud band, pale teal, very soft and faint, stretched sideways, symmetrical, cel-shaded toon game art, bold clean shapes, flat gradient shading, one subject centred and fully in frame, no other objects, no text"
+    },
+    {
+      "name": "sprite_spire",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_spire.png",
+      "prompt": "One single floating temple spire seen from high above, tiered gold roof over dark navy stone, symmetrical, cel-shaded toon game art, bold clean shapes, crisp dark outlines, flat gradient shading, glowing rim light, one subject centred and fully in frame, no other objects, no text"
+    },
+    {
+      "name": "sprite_mark_emblem",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_mark_emblem.png",
+      "prompt": "One single abstract emblem: a gold circular gate ring with an ember spiral burning at its centre, symmetrical, heraldic, cel-shaded toon game art, bold clean shapes, crisp dark outlines, flat gradient shading, glowing rim light, one subject centred and fully in frame, no other objects, no letters, no text, no typography, no words"
+    },
+    {
+      "name": "sprite_icon_pause",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_pause.png",
+      "prompt": "One single pause glyph, two thick rounded vertical bars side by side, solid gold, symmetrical, flat and simple, cel-shaded toon game art, bold clean shapes, crisp dark outlines, flat gradient shading, one subject centred and fully in frame, no other objects, no text"
+    },
+    {
+      "name": "sprite_icon_back",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_back.png",
+      "prompt": "facing LEFT. One single back chevron glyph, a thick rounded stroke bent into an arrow head pointing to the LEFT edge, solid gold, flat and simple, cel-shaded toon game art, bold clean shapes, crisp dark outlines, flat gradient shading, one subject centred and fully in frame, no other objects, no text"
+    },
+    {
+      "name": "sprite_icon_close",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_close.png",
+      "prompt": "One single close cross glyph, two thick rounded diagonal strokes crossing in the middle, solid gold, symmetrical, flat and simple, cel-shaded toon game art, bold clean shapes, crisp dark outlines, flat gradient shading, one subject centred and fully in frame, no other objects, no text"
+    }
+  ]
+}

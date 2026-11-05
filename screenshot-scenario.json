@@ -1,0 +1,60 @@
+{
+  "steps": [
+    {
+      "waitLoader": true,
+      "shot": "01_sky_map",
+      "note": "the menu AFTER the splash: the menu scene shows its own loading bar on a cold launch, so step 1 blocks on the loader instead of using a fixed wait - shard purse, best combo, the circuit card and the dragon"
+    },
+    {
+      "tapFrac": [
+        0.285,
+        0.664
+      ],
+      "label": "CIRCUIT_CHIP_2",
+      "wait": 2,
+      "shot": "02_circuit_chosen",
+      "note": "chip 2 of 6 in the rail; chip x = (1 - 2.5) * 178 = -267, yB 880 - the card, the chip row and the objective line all repaint"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.78
+      ],
+      "label": "PLAY",
+      "waitLoader": true,
+      "wait": 10,
+      "shot": "03_circuit_run",
+      "note": "the template PLAY slot, pinned by the scene to 760x168 at yB 560"
+    },
+    {
+      "wait": 8,
+      "shot": "04_crystals_ahead",
+      "note": "around gate 9: crystals in the lanes, the ember bar down, the combo climbing"
+    },
+    {
+      "wait": 8,
+      "shot": "05_ember_surge",
+      "note": "around gate 13: the surge banner, the dragon's gold rim, the spire drifting past"
+    },
+    {
+      "tapFrac": [
+        0.91,
+        0.09
+      ],
+      "label": "PAUSE",
+      "wait": 2,
+      "shot": "06_circuit_held",
+      "note": "pause glyph, anchored top right at (-112, -200), 108 square"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.856
+      ],
+      "label": "RESUME",
+      "wait": 6,
+      "shot": "07_run_resumed",
+      "note": "first action button of the pop card: yB 230 inside a card inset 120 from the pop"
+    }
+  ]
+}
